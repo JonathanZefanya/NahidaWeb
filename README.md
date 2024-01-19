@@ -1,5 +1,5 @@
 <h1>Definisi Portal Nahida Web</h1>
-Website ini adalah website untuk mempermudah saya dalam menjalani kehidupan saya di kampus,
+Website ini adalah website untuk mempermudah saya dalam menjalani kehidupan saya di kampus,<br>
 sekaligus bisa bermain di dalam page ini dengan cara di click
 
 <h1>Teknologi Yang Di Gunakan</h1>
